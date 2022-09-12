@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iMarupakula
-- 👀 I’m interested in Data Visualization
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Mahesh
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python & SQL
 - 📫  @iMarupakula
 
 <!---
